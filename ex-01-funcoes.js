@@ -337,7 +337,7 @@ enviar o nome da função sem os parênteses)
 function dobro(numero){
   return numero * 2
 }
-export const resposta02 = numero
+export const resposta02 = dobro
 
 /* Questão 3
 Crie uma função chamada "ehPositivo" que recebe um número como argumento e 
@@ -386,7 +386,7 @@ propriedade .length). Envie na resposta a função criada, sem executá-la
 */
 // Escreva o código da solução abaixo:
 function contarTravaLinguas(){
-conta
+travaLinguas.length
 }
 export const resposta05 = contarTravaLinguas
 
