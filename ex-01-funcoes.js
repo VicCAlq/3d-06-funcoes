@@ -406,7 +406,7 @@ function obterTravaLingua (indice) {
   return travaLinguas[indice - 1]
 }
 
-export const resposta06 = obterTravaLingua
+export const resposta06 = obterTravaLingua;
 
 /* Questão 7
 Crie uma função chamada "contarPalavrasTravaLingua" que recebe um 
@@ -422,7 +422,7 @@ function contarPalavrasTravaLingua (indice) {
 
 }
 
-export const resposta07 = contarPalavrasTravaLingua
+export const resposta07 = contarPalavrasTravaLingua;
 
 /* Questão 8
 Crie uma função chamada "buscarTravaLinguasComPalavra" que recebe uma 
@@ -434,8 +434,17 @@ Envie na resposta a função criada, sem executá-la (basta enviar
 o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
+function buscarTravaLinguasComPalavra (palavra) {
+  const novalista = []
+  for (let tl of travaLinguas) {
+    if (tl.includes(palavra)) {
+      novalista.push(tl)
+    }
+  }
+  return novalista
+}
 
-export const resposta08 = false
+export const resposta08 = buscarTravaLinguasComPalavra;
 
 // Lista para as questões 9 a 12
 export const elementos = [
@@ -462,8 +471,11 @@ lista. Envie na resposta a função criada, sem executá-la (basta
 enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
+function contarElementos (elementos) {
+  return elementos.length
+}
 
-export const resposta09 = false
+export const resposta09 = contarElementos
 
 /* Questão 10
 Crie uma função chamada "buscarPorNumeroAtomico" que recebe dois 
