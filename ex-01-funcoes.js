@@ -472,7 +472,7 @@ enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 function contarElementos (elementos) {
-  return elementos.length
+  return elementos.length - 1
 }
 
 export const resposta09 = contarElementos
