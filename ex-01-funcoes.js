@@ -385,8 +385,8 @@ propriedade .length). Envie na resposta a função criada, sem executá-la
 (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-function contarTravaLinguas(){
-travaLinguas.length
+function contarTravaLinguas(travaLingua){
+  return travaLinguas.length
 }
 export const resposta05 = contarTravaLinguas
 
@@ -398,7 +398,6 @@ está no índice 0. Envie na resposta a função criada, sem executá-la
 (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-
 export const resposta06 = false
 
 /* Questão 7
