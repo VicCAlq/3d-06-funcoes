@@ -403,7 +403,7 @@ está no índice 0. Envie na resposta a função criada, sem executá-la
 */
 // Escreva o código da solução abaixo:
 function obterTravaLingua (indice) {
-  return travaLinguas(travaLinguas.length - 1)
+  return travaLinguas[indice - 1]
 }
 
 export const resposta06 = obterTravaLingua
@@ -418,7 +418,7 @@ executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 function contarPalavrasTravaLingua (indice) {
-  return travaLinguas(travaLinguas.length - 1).split(" ")
+  return travaLinguas[indice - 1].split(" ").length
 
 }
 
