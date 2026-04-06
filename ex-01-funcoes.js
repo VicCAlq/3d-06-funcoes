@@ -332,8 +332,8 @@ o dobro desse número. Envie na resposta a função criada, sem executá-la (bas
 enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-function dobro(x){
-    return x * 2
+function dobro(nmr){
+    return nmr * 2
 }
 export const resposta02 = dobro
 
@@ -344,11 +344,11 @@ Envie na resposta a função criada, sem executá-la (basta enviar o nome
 da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-function ehPositivo(Y){
-    if( Y > 0){
+function ehPositivo(nmr2){
+    if( nmr2 > 0){
         return console.log("true")
     }
-    else(Y <= 0)
+    else(nmr2 <= 0)
         return console.log("false")
     }
 
@@ -397,11 +397,10 @@ está no índice 0. Envie na resposta a função criada, sem executá-la
 (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-function obterTravaLingua(Z){
-  return travaLinguas[Z - 1]
+function obterTravaLingua(indice){
+  return travaLinguas[indice - 1]
 }
-export const resposta06 = false
-
+export const resposta06 = obterTravaLingua
 /* Questão 7
 Crie uma função chamada "contarPalavrasTravaLingua" que recebe um 
 número como argumento (representando um índice) e retorna a quantidade 
@@ -412,8 +411,8 @@ executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 
-function contarPalavrasTravaLingua(G){
-    return travaLinguas[G].split(" ").length
+function contarPalavrasTravaLingua(indice){
+    return travaLinguas[indice].split(" ").length
 }
 
 export const resposta07 = contarPalavrasTravaLingue
@@ -429,17 +428,18 @@ o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 function buscarTravaLinguasComPalavra(palavra){
-  const F = []
+  const resultado = []
   let i = 0
 
   while(i < travaLinguas.length){
     if(travaLinguas[i].includes(palavra)){
-      F.push(travaLinguas[i])
+      resultado.push(travaLinguas[i])
     }
     i++
   }
 
-  return F
+  return resultado
+
 }
 export const resposta08 = buscarTravaLinguasComPalavra
 
