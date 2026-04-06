@@ -12,7 +12,7 @@ o nome dela. Em JavaScript, usamos a palavra-chave "function" para criar uma fun
 Vamos ver a sintaxe básica:
 
 function nomeDaFuncao() {
-  código a ser executado
+  código a ser executado 
 }
 
 Para "chamar" (executar) a função, escrevemos:
