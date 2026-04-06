@@ -326,14 +326,6 @@ function saudacao() {
 }
 export const resposta01 = saudacao
 
-<<<<<<< HEAD
-=======
-function saudacao() {
-  return "Bom dia!"
-}
-export const resposta01 = saudacao
-
->>>>>>> 426cfe7728527076474e16ea2376e4a8f11e5fc5
 /* Questão 2
 Crie uma função chamada "dobro" que recebe um número como argumento e retorna 
 o dobro desse número. Envie na resposta a função criada, sem executá-la (basta 
@@ -345,15 +337,6 @@ function dobro(nmr) {
 }
 export const resposta02 = dobro
 
-<<<<<<< HEAD
-=======
-function dobro(numero) {
-  return numero * 2
-}
-export const resposta02 = dobro
-
-
->>>>>>> 426cfe7728527076474e16ea2376e4a8f11e5fc5
 /* Questão 3
 Crie uma função chamada "ehPositivo" que recebe um número como argumento e 
 retorna true se o número for maior que zero, ou false caso contrário. 
@@ -361,20 +344,11 @@ Envie na resposta a função criada, sem executá-la (basta enviar o nome
 da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-<<<<<<< HEAD
 function ehPositivo(nmr2) {
   if (nmr2 <= 0) {return false}
   else {return true}
 }
 export const resposta03 = false
-=======
-
-function ehPositivo(numero) {
-  return numero > 0
-}
-export const resposta03 = ehPositivo
->>>>>>> 426cfe7728527076474e16ea2376e4a8f11e5fc5
-
 
 /* Questão 4
 Crie uma função chamada "nomeCompleto" que recebe dois argumentos: 
@@ -388,15 +362,6 @@ function nomeCompleto (primeiroNome, sobrenome) {
 }
 export const resposta04 = nomeCompleto
 
-<<<<<<< HEAD
-=======
-function nomeCompleto(primeiroNome, sobrenome) {
-  return primeiroNome + " " + sobrenome
-}
-export const resposta04 = nomeCompleto
-
-
->>>>>>> 426cfe7728527076474e16ea2376e4a8f11e5fc5
 // Lista para as questões 5 a 8
 export const travaLinguas = [
   "Três pratos de trigo para três tigres tristes",
@@ -420,14 +385,6 @@ function contarTravaLinguas(travaLinguas) {
 }
 export const resposta05 = contarTravaLinguas
 
-<<<<<<< HEAD
-=======
-function contarTravaLinguas(lista) {
-  return lista.length
-}
-export const resposta05 = contarTravaLinguas
-
->>>>>>> 426cfe7728527076474e16ea2376e4a8f11e5fc5
 /* Questão 6
 Crie uma função chamada "obterTravaLingua" que recebe um número como 
 argumento (representando um índice) e retorna o trava-língua correspondente 
@@ -441,15 +398,6 @@ function obterTravaLingua(nmr3) {
 }
 export const resposta06 = obterTravaLingua
 
-<<<<<<< HEAD
-=======
-function obterTravaLingua(indice) {
-  return travaLinguas[indice]
-}
-export const resposta06 = obterTravaLingua
-
-
->>>>>>> 426cfe7728527076474e16ea2376e4a8f11e5fc5
 /* Questão 7
 Crie uma função chamada "contarPalavrasTravaLingua" que recebe um 
 número como argumento (representando um índice) e retorna a quantidade 
@@ -464,15 +412,6 @@ function contarPalavrasTravaLingua(nmr4) {
 }
 export const resposta07 = contarPalavrasTravaLingua
 
-<<<<<<< HEAD
-=======
-function contarPalavrasTravaLingua(indice) {
-  return travaLinguas[indice].split(" ").length
-}
-export const resposta07 = contarPalavrasTravaLingua
-
-
->>>>>>> 426cfe7728527076474e16ea2376e4a8f11e5fc5
 /* Questão 8
 Crie uma função chamada "buscarTravaLinguasComPalavra" que recebe uma 
 palavra como argumento e retorna uma lista (array) contendo apenas os 
@@ -524,14 +463,6 @@ function contarElementos(elementos) {
 }
 export const resposta09 = contarElementos
 
-<<<<<<< HEAD
-=======
-function contarElementos(lista) {
-  return lista.length
-}
-export const resposta09 = contarElementos
-
->>>>>>> 426cfe7728527076474e16ea2376e4a8f11e5fc5
 /* Questão 10
 Crie uma função chamada "buscarPorNumeroAtomico" que recebe dois 
 argumentos: a lista "elementos" e um número atômico. A função deve 
@@ -540,7 +471,6 @@ ou null se não encontrar. Envie na resposta a função criada, sem
 executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-<<<<<<< HEAD
 function buscarPorNumeroAtomico(elementos, nmr5) {
   let j = 0
   while (j < elementos) {
@@ -548,22 +478,6 @@ function buscarPorNumeroAtomico(elementos, nmr5) {
   }
 }
 export const resposta10 = false
-=======
-
-function buscarPorNumeroAtomico(lista, numero) {
-  let i = 0
->>>>>>> 426cfe7728527076474e16ea2376e4a8f11e5fc5
-
-  while (i < lista.length) {
-    if (lista[i].numeroAtomico === numero) {
-      return lista[i]
-    }
-    i++
-  }
-
-  return null
-}
-export const resposta10 = buscarPorNumeroAtomico
 
 /* Questão 11
 Crie uma função chamada "listarNomesElementos" que recebe a lista 
@@ -574,19 +488,7 @@ nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 
-function listarNomesElementos(lista) {
-  let nomes = []
-  let i = 0
-
-  while (i < lista.length) {
-    nomes.push(lista[i].nome)
-    i++
-  }
-
-  return nomes
-}
-export const resposta11 = listarNomesElementos
-
+export const resposta11 = false
 
 /* Questão 12
 Crie uma função chamada "elementosComNumeroPar" que recebe a lista 
@@ -597,17 +499,4 @@ função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 
-function elementosComNumeroPar(lista) {
-  let resultado = []
-  let i = 0
-
-  while (i < lista.length) {
-    if (lista[i].numeroAtomico % 2 === 0) {
-      resultado.push(lista[i])
-    }
-    i++
-  }
-
-  return resultado
-}
-export const resposta12 = elementosComNumeroPar
+export const resposta12 = false
