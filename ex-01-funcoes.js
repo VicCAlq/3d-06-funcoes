@@ -390,7 +390,7 @@ propriedade .length). Envie na resposta a função criada, sem executá-la
 function contarTravaLinguas(travaLinguas) {
 return travaLinguas.length
 }
-export const resposta05 = contrarTravaLinguas 
+export const resposta05 = contarTravaLinguas
 
 /* Questão 6
 Crie uma função chamada "obterTravaLingua" que recebe um número como 
