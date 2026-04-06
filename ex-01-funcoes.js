@@ -322,7 +322,10 @@ enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 
-export const resposta01 = false
+function saudacao(){
+  return "Bom dia!" 
+}
+export const resposta01 = saudacao
 
 /* Questão 2
 Crie uma função chamada "dobro" que recebe um número como argumento e retorna 
@@ -331,7 +334,10 @@ enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 
-export const resposta02 = false
+function dobro(numero){
+  return numero * 2
+}
+export const resposta02 = numero
 
 /* Questão 3
 Crie uma função chamada "ehPositivo" que recebe um número como argumento e 
@@ -340,7 +346,11 @@ Envie na resposta a função criada, sem executá-la (basta enviar o nome
 da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-
+function ehPositivo(){
+  if(2 % 2 == 0) {
+    
+}
+}
 export const resposta03 = false
 
 /* Questão 4
