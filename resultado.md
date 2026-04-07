@@ -1,4 +1,4 @@
-Data de atualização: Dia 06/04/2026 às 16:29:23
+Data de atualização: Dia 07/04/2026 às 15:41:33
  
 
 | Questão | Exercício | Entregue | Correto | Mensagem de Erro |
@@ -11,7 +11,7 @@ Data de atualização: Dia 06/04/2026 às 16:29:23
 |  6 | Ex 01 | ✅ | ❌ | AssertionError: Resposta Incorreta: expected undefined to deeply equal 'Três pratos de trigo para três tigres…' |
 |  7 | Ex 01 | ✅ | ❌ | AssertionError: Resposta Incorreta: expected 8 to deeply equal 9 |
 |  8 | Ex 01 | ✅ | ✅ | Nenhum erro |
-|  9 | Ex 01 | ✅ | ✅ | Nenhum erro |
+|  9 | Ex 01 | ✅ | ❌ | AssertionError: Resposta Incorreta: expected 13 to deeply equal 14 |
 | 10 | Ex 01 | ❌ | ❌ | AssertionError: expected false to be type of 'function' |
 | 11 | Ex 01 | ❌ | ❌ | AssertionError: expected false to be type of 'function' |
 | 12 | Ex 01 | ❌ | ❌ | AssertionError: expected false to be type of 'function' |
