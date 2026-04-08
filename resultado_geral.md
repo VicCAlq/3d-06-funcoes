@@ -1,4 +1,4 @@
-Data de atualização: Dia 07/04/2026 às 15:44:51
+Data de atualização: Dia 08/04/2026 às 14:57:29
  
 
 | Aluno | Qtd. questões acertadas (de 9) | Nota total |
@@ -8,7 +8,7 @@ Data de atualização: Dia 07/04/2026 às 15:44:51
 | Anthoniely Thialy (thiacstaa) | 0 | 0.00 |
 | Ariadne Maciel (arii-i) | 0 | 0.00 |
 | Bruna Carla (Bruna561) | 0 | 0.00 |
-| Carlos Benjamin (Kiseki-Shini) | 0 | 0.00 |
+| Carlos Benjamin (Kiseki-Shini) | 6 | 75.56 |
 | Cassiano Jorge (Cassianjo) | 6 | 73.33 |
 | Christian Leandro (LEandrittoum) | 0 | 0.00 |
 | Davi Gabriel (Kirishima226) | 0 | 0.00 |
