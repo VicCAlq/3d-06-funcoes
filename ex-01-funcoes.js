@@ -346,9 +346,9 @@ da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 function ehPositivo(numero){
-  if (numero => 0){
-    return "true"}
-  else {return "false"}
+  if (numero > 0){
+    return true}
+  else {return false}
 }
 
 
@@ -436,7 +436,7 @@ function buscarTravaLinguasComPalavra(palavra) {
   
   while (indice < travaLinguas.length) {
         if (travaLinguas[indice].includes(palavra)) {
-            resultado.push(travaLinguas[indice]);
+            novaLista.push(travaLinguas[indice]);
         }
         indice++;
       }
