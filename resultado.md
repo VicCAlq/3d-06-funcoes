@@ -1,12 +1,12 @@
-Data de atualização: Dia 09/04/2026 às 09:47:22
+Data de atualização: Dia 09/04/2026 às 09:53:37
  
 
 | Questão | Exercício | Entregue | Correto | Mensagem de Erro |
 |---------|-----------|----------|---------|------------------|
-|  1 | Ex 01 | ✅ | ❌ | AssertionError: Resposta Incorreta: expected undefined to deeply equal 'Bom dia!' |
-|  2 | Ex 01 | ✅ | ❌ | ReferenceError: numero is not defined |
+|  1 | Ex 01 | ✅ | ✅ | Nenhum erro |
+|  2 | Ex 01 | ✅ | ✅ | Nenhum erro |
 |  3 | Ex 01 | ✅ | ❌ | AssertionError: Resposta Incorreta: expected 'true' to deeply equal true |
-|  4 | Ex 01 | ✅ | ❌ | AssertionError: Resposta Incorreta: expected undefined to deeply equal 'João Silva' |
+|  4 | Ex 01 | ✅ | ✅ | Nenhum erro |
 |  5 | Ex 01 | ✅ | ✅ | Nenhum erro |
 |  6 | Ex 01 | ✅ | ✅ | Nenhum erro |
 |  7 | Ex 01 | ✅ | ✅ | Nenhum erro |
