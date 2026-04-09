@@ -348,7 +348,7 @@ function ehPositivo(nmr2) {
   if (nmr2 <= 0) {return false}
   else {return true}
 }
-export const resposta03 = false
+export const resposta03 = ehPositivo
 
 /* Questão 4
 Crie uma função chamada "nomeCompleto" que recebe dois argumentos: 
@@ -394,7 +394,7 @@ está no índice 0. Envie na resposta a função criada, sem executá-la
 */
 // Escreva o código da solução abaixo:
 function obterTravaLingua(nmr3) {
-  return travaLinguas[nmr3-1]
+  return travaLinguas[nmr3]
 }
 export const resposta06 = obterTravaLingua
 
