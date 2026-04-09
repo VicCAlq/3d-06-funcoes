@@ -350,7 +350,9 @@ function ehPositivo(valor) {
   if (valor > 0) {
     return "true"
   }
- return "Reprovado"
+  else {
+    return "false"
+  }
 }
 
 export const resposta03 = ehPositivo
@@ -436,6 +438,14 @@ Envie na resposta a função criada, sem executá-la (basta enviar
 o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
+function buscarTravaLinguasComPalavra(palavra){
+  let novaLista = []
+
+  while (travaLinguas.includes(palavra)){
+    novaLista.push(travaLinguas)
+  }
+  return novaLista
+}
 
 export const resposta08 = false
 
