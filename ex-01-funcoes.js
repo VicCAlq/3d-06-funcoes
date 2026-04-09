@@ -1,6 +1,3 @@
-funções resposta : 
-
-
 /*
 Assunto 01 - Funções, Argumentos e Retornos
 
