@@ -472,7 +472,7 @@ executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 
-function buscarPorNumeroAtomico(num) {
+function buscarPorNumeroAtomico(elemenos, num) {
   let a = 0
   while (a < elementos.length) {
     if (elementos[a].numeroAtomico == num) {return elementos[a]}
