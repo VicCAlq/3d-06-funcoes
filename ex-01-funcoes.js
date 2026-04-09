@@ -336,7 +336,6 @@ function dobro(nmr){
     return nmr * 2
 }
 export const resposta02 = dobro
-
 /* Questão 3
 Crie uma função chamada "ehPositivo" que recebe um número como argumento e 
 retorna true se o número for maior que zero, ou false caso contrário. 
@@ -346,12 +345,12 @@ da função sem os parênteses)
 // Escreva o código da solução abaixo:
 function ehPositivo(nmr2){
     if( nmr2 > 0){
-        return console.log("true")
+        return true
     }
-    else(nmr2 <= 0)
-        return console.log("false")
-    }
-
+  
+        return false
+    } 
+console.log(ehPositivo(-1))
 export const resposta03 = ehPositivo
 
 /* Questão 4
@@ -398,7 +397,7 @@ está no índice 0. Envie na resposta a função criada, sem executá-la
 */
 // Escreva o código da solução abaixo:
 function obterTravaLingua(indice){
-  return travaLinguas[indice - 1]
+  return travaLinguas[indice]
 }
 export const resposta06 = obterTravaLingua
 /* Questão 7
