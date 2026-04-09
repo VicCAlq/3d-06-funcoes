@@ -385,7 +385,7 @@ propriedade .length). Envie na resposta a função criada, sem executá-la
 (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-function contarTravaLinguas(travaLingua){
+function contarTravaLinguas(travaLinguas){
   return travaLinguas.length
 }
 export const resposta05 = contarTravaLinguas
@@ -398,8 +398,13 @@ está no índice 0. Envie na resposta a função criada, sem executá-la
 (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-export const resposta06 = false
+let indice = 0
+function obterTravaLingua(indice, travaLinguas){
+    return travaLinguas[indice]
+}
 
+
+export const resposta06 = obterTravaLingua
 /* Questão 7
 Crie uma função chamada "contarPalavrasTravaLingua" que recebe um 
 número como argumento (representando um índice) e retorna a quantidade 
@@ -410,7 +415,13 @@ executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 
-export const resposta07 = false
+
+function contarPalavrasTravaLingua(indice, travalinguas){
+  return travaLinguas[indice.length].split(" ").length;
+}
+
+
+export const resposta07 = contarPalavrasTravaLingua
 
 /* Questão 8
 Crie uma função chamada "buscarTravaLinguasComPalavra" que recebe uma 
@@ -451,7 +462,12 @@ enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 
-export const resposta09 = false
+function contarElementos(elementos){
+  return elementos.length
+}
+
+
+export const resposta09 = contarElementos
 
 /* Questão 10
 Crie uma função chamada "buscarPorNumeroAtomico" que recebe dois 
@@ -462,7 +478,18 @@ executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 
-export const resposta10 = false
+
+function buscarPorNumeroAtomico(elementos, numeroAtomico){
+    for(let elemento of elementos) {
+      if (elemento.numeroAtomico === numeroAtomico) {
+        return elemento
+      }
+    }
+    return null
+}
+
+
+export const resposta10 = buscarPorNumeroAtomico
 
 /* Questão 11
 Crie uma função chamada "listarNomesElementos" que recebe a lista 
