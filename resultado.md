@@ -1,17 +1,7 @@
-Data de atualização: Dia 09/04/2026 às 10:06:48
+Data de atualização: Dia 09/04/2026 às 10:25:13
  
 
 | Questão | Exercício | Entregue | Correto | Mensagem de Erro |
 |---------|-----------|----------|---------|------------------|
-|  1 | Ex 01 | ✅ | ✅ | Nenhum erro |
-|  2 | Ex 01 | ✅ | ✅ | Nenhum erro |
-|  3 | Ex 01 | ✅ | ❌ | AssertionError: Resposta Incorreta: expected 'true' to deeply equal true |
-|  4 | Ex 01 | ✅ | ✅ | Nenhum erro |
-|  5 | Ex 01 | ✅ | ✅ | Nenhum erro |
-|  6 | Ex 01 | ✅ | ✅ | Nenhum erro |
-|  7 | Ex 01 | ✅ | ✅ | Nenhum erro |
-|  8 | Ex 01 | ❌ | ❌ | AssertionError: expected false to be type of 'function' |
-|  9 | Ex 01 | ✅ | ✅ | Nenhum erro |
-| 10 | Ex 01 | ✅ | ✅ | Nenhum erro |
-| 11 | Ex 01 | ❌ | ❌ | AssertionError: expected false to be type of 'function' |
-| 12 | Ex 01 | ❌ | ❌ | AssertionError: expected false to be type of 'function' |
+| ❌❌❌ | Ex 1 | ❌❌❌ | ❌❌❌ | Parse failure: Expected '(', got 'ident'
+At file: /ex-01-funcoes.js:522:5 |
