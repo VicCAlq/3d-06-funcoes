@@ -350,7 +350,9 @@ function ehPositivo(valor) {
   if (valor > 0) {
     return "true"
   }
- return "Reprovado"
+  else {
+    return "false"
+  }
 }
 
 export const resposta03 = ehPositivo
@@ -436,8 +438,16 @@ Envie na resposta a função criada, sem executá-la (basta enviar
 o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
+function buscarTravaLinguasComPalavra(palavra){
+  let novaLista = []
 
-export const resposta08 = false
+  while (travaLinguas.includes(palavra)){
+    novaLista.push(travaLinguas)
+  }
+  return novaLista
+}
+
+export const resposta08 = buscarTravaLinguasComPalavra
 
 // Lista para as questões 9 a 12
 export const elementos = [
@@ -492,7 +502,10 @@ resposta a função criada, sem executá-la (basta enviar o
 nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
+function listarNomesElementos(elementos){
+  let newLista = []
 
+}
 export const resposta11 = false
 
 /* Questão 12
@@ -503,5 +516,12 @@ resposta a função criada, sem executá-la (basta enviar o nome da
 função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-
-export const resposta12 = false
+function elementosComNumeroPar(elementos, numeroAtomico){
+  let NewListaa = []
+ 
+  if numeroAtomico % 2 === 0{
+    NewListaa.push(elemento)
+  }
+  return NewListaa
+}
+export const resposta12 = elementosComNumeroPar
