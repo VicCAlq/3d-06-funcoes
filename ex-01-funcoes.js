@@ -440,14 +440,14 @@ o nome da função sem os parênteses)
 // Escreva o código da solução abaixo:
 function buscarTravaLinguasComPalavra(palavra){
   let novaLista = []
-
+  
   while (travaLinguas.includes(palavra)){
     novaLista.push(travaLinguas)
   }
   return novaLista
 }
 
-export const resposta08 = false
+export const resposta08 = buscarTravaLinguasComPalavra
 
 // Lista para as questões 9 a 12
 export const elementos = [
