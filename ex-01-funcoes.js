@@ -492,7 +492,17 @@ nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 
-export const resposta11 = false
+function listarNomesElementos(elementos) {
+  let bola = []
+  let b = 0
+  while (b < elementos.length) {
+    bola[b] = elementos[b].nome
+    b++
+  }
+  return bola
+}
+
+export const resposta11 = listarNomesElementos
 
 /* Questão 12
 Crie uma função chamada "elementosComNumeroPar" que recebe a lista 
@@ -502,5 +512,9 @@ resposta a função criada, sem executá-la (basta enviar o nome da
 função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
+
+function elementosComNumeroPar(elementos) {
+  
+}
 
 export const resposta12 = false
