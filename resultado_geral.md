@@ -1,10 +1,10 @@
-Data de atualização: Dia 09/04/2026 às 09:40:30
+Data de atualização: Dia 09/04/2026 às 09:48:24
  
 
 | Aluno | Qtd. questões acertadas (de 9) | Nota total |
 |-------|---------------------------------|------------|
-| Alan Henrique (Norcat27) | 0 | 0.00 |
-| Anderson Túlio (tulinhokkj) | 0 | 0.00 |
+| Alan Henrique (Norcat27) | 7 | 82.22 |
+| Anderson Túlio (tulinhokkj) | 6 | 73.33 |
 | Anthoniely Thialy (thiacstaa) | 0 | 0.00 |
 | Ariadne Maciel (arii-i) | 0 | 0.00 |
 | Bruna Carla (Bruna561) | 0 | 0.00 |
@@ -33,7 +33,7 @@ Data de atualização: Dia 09/04/2026 às 09:40:30
 | Maria Eduarda Sena (SenaPaiva) | 5 | 64.44 |
 | Maria Fernanda (Nini2pi) | 0 | 0.00 |
 | Maria Heloisa (loisa188) | 0 | 0.00 |
-| Maria Vitória (mavimdddu) | 0 | 0.00 |
+| Maria Vitória (mavimdddu) | 11 | 100.00 |
 | Pedro Alexsandro (hyuga64) | 0 | 0.00 |
 | Pedro Henrique (PedroHenrique2D) | 12 | 100.00 |
 | Rafael Correia (rafaelCamisa11) | 11 | 100.00 |
