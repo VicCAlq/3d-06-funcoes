@@ -440,7 +440,7 @@ o nome da função sem os parênteses)
 // Escreva o código da solução abaixo:
 function buscarTravaLinguasComPalavra(palavra){
   let novaLista = []
-  
+
   while (travaLinguas.includes(palavra)){
     novaLista.push(travaLinguas)
   }
@@ -502,7 +502,10 @@ resposta a função criada, sem executá-la (basta enviar o
 nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
+function listarNomesElementos(elementos){
+  let newLista = []
 
+}
 export const resposta11 = false
 
 /* Questão 12
@@ -513,5 +516,12 @@ resposta a função criada, sem executá-la (basta enviar o nome da
 função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-
-export const resposta12 = false
+function elementosComNumeroPar(elementos, numeroAtomico){
+  let NewListaa = []
+ 
+  if numeroAtomico % 2 === 0{
+    NewListaa.push(elemento)
+  }
+  return NewListaa
+}
+export const resposta12 = elementosComNumeroPar
