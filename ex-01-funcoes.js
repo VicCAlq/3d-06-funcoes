@@ -322,7 +322,7 @@ enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 function saudacao() {
-  console.log("Bom dia!")
+  return "Bom dia!"
 }
 
 export const resposta01 = saudacao
@@ -333,8 +333,8 @@ o dobro desse número. Envie na resposta a função criada, sem executá-la (bas
 enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-function dobro(){
-  console.log(numero * 2)
+function dobro(numero){
+  return(numero * 2)
 }
 
 export const resposta02 = dobro
@@ -350,9 +350,7 @@ function ehPositivo(valor) {
   if (valor > 0) {
     return "true"
   }
-  else {
-    return "false"
-  }
+ return "Reprovado"
 }
 
 export const resposta03 = ehPositivo
@@ -365,7 +363,7 @@ um espaço. Envie na resposta a função criada, sem executá-la
 */
 // Escreva o código da solução abaixo:
 function nomeCompleto(primeiroNome, sobrenome) {
-  console.log(primeiroNome + " " + sobrenome)
+  return primeiroNome + " " + sobrenome
 }
 nomeCompleto("Josefá ","Fininha ")
 
