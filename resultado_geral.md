@@ -1,23 +1,23 @@
-Data de atualização: Dia 09/04/2026 às 10:07:51
+Data de atualização: Dia 09/04/2026 às 10:26:16
  
 
 | Aluno | Qtd. questões acertadas (de 9) | Nota total |
 |-------|---------------------------------|------------|
 | Alan Henrique (Norcat27) | 9 | 100.00 |
-| Anderson Túlio (tulinhokkj) | 8 | 93.33 |
+| Anderson Túlio (tulinhokkj) | 10 | 100.00 |
 | Anthoniely Thialy (thiacstaa) | 11 | 100.00 |
 | Ariadne Maciel (arii-i) | 0 | 0.00 |
 | Bruna Carla (Bruna561) | 11 | 100.00 |
-| Carlos Benjamin (Kiseki-Shini) | 8 | 93.33 |
+| Carlos Benjamin (Kiseki-Shini) | 10 | 100.00 |
 | Cassiano Jorge (Cassianjo) | 9 | 100.00 |
 | Christian Leandro (LEandrittoum) | 0 | 0.00 |
-| Davi Gabriel (Kirishima226) | 0 | 0.00 |
+| Davi Gabriel (Kirishima226) | 7 | 82.22 |
 | Diego Amorim (Dieguinho1807) | 9 | 100.00 |
 | Enzo de Almeida (Azulejo-barroco) | 6 | 66.67 |
 | Gabriel Donato (Pensologosabo) | 9 | 100.00 |
 | Gitahbcahjcb (Gitahbcahjcb) | 0 | 0.00 |
 | Guilherme Galdino (abstractx7) | 9 | 100.00 |
-| Hattus Eduardo (Seth456879) | 5 | 55.56 |
+| Hattus Eduardo (Seth456879) | 7 | 82.22 |
 | Italo Luiz (italo138) | 0 | 0.00 |
 | Jason Ferreira (Jeis0) | 9 | 100.00 |
 | João Guilherme (joaoguilhermeZS) | 11 | 100.00 |
@@ -28,16 +28,16 @@ Data de atualização: Dia 09/04/2026 às 10:07:51
 | Keven Miguel (kevenlwr) | 0 | 0.00 |
 | Laura Isabelle (llauraxrt) | 11 | 100.00 |
 | Lucas Caio (lucascaio-art) | 0 | 0.00 |
-| Lucas Ruan (lucasruan12) | 0 | 0.00 |
+| Lucas Ruan (lucasruan12) | 4 | 53.33 |
 | Maria Antonia (harieladorecife) | 0 | 0.00 |
-| Maria Eduarda Sena (SenaPaiva) | 8 | 91.11 |
+| Maria Eduarda Sena (SenaPaiva) | 0 | 0.00 |
 | Maria Fernanda (Nini2pi) | 0 | 0.00 |
 | Maria Heloisa (loisa188) | 0 | 0.00 |
 | Maria Vitória (mavimdddu) | 11 | 100.00 |
-| Pedro Alexsandro (hyuga64) | 0 | 0.00 |
+| Pedro Alexsandro (hyuga64) | 9 | 100.00 |
 | Pedro Henrique (PedroHenrique2D) | 12 | 100.00 |
 | Rafael Correia (rafaelCamisa11) | 11 | 100.00 |
-| Ricardo Freitas (Ricky2D) | 5 | 55.56 |
+| Ricardo Freitas (Ricky2D) | 7 | 82.22 |
 | Samara Vitória (vitoria28398) | 11 | 100.00 |
 | Severino Antônio (netod4rk) | 11 | 100.00 |
 | Thiago Guilherme (keanorives) | 9 | 100.00 |
