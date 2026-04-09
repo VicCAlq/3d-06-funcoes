@@ -435,7 +435,7 @@ function buscarTravaLinguasComPalavra (palavra){
     i = 0
     
     if(travaLinguas[i].includes(palavra)){
-    listadeTravaLinguas.push 
+      listadeTravaLinguas.push(travaLinguas[i])
     }
     
     i += 1
