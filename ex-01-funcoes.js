@@ -346,10 +346,9 @@ da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 function ehPositivo(numero){
-  if (numero > 0)
-    return "true"
-  if (numero< 0)
-    return "false"
+  if (numero => 0){
+    return "true"}
+  else {return "false"}
 }
 
 
@@ -416,7 +415,7 @@ executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 function contarPalavrasTravaLingua(indice) {
-    return travaLinguas[indice].split("").length;
+    return travaLinguas[indice].split(" ").length;
 }
 
 export const resposta07 = contarPalavrasTravaLingua
@@ -435,7 +434,7 @@ function buscarTravaLinguasComPalavra(palavra) {
   let novaLista = []
   let indice = 0
   
-  while (indice = travaLinguas.length) {
+  while (indice < travaLinguas.length) {
         if (travaLinguas[indice].includes(palavra)) {
             resultado.push(travaLinguas[indice]);
         }
