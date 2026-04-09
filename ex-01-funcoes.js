@@ -333,7 +333,7 @@ o dobro desse número. Envie na resposta a função criada, sem executá-la (bas
 enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-function dobro(){
+function dobro(numero){
   return numero * 2
 }
 export const resposta02 = dobro
@@ -345,7 +345,7 @@ Envie na resposta a função criada, sem executá-la (basta enviar o nome
 da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-function ehPositivo(){
+function ehPositivo(numero){
   if (numero > 0)
     return "true"
   if (numero< 0)
