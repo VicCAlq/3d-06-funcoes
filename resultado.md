@@ -1,11 +1,11 @@
-Data de atualização: Dia 09/04/2026 às 01:49:25
+Data de atualização: Dia 09/04/2026 às 09:37:39
  
 
 | Questão | Exercício | Entregue | Correto | Mensagem de Erro |
 |---------|-----------|----------|---------|------------------|
 |  1 | Ex 01 | ✅ | ✅ | Nenhum erro |
-|  2 | Ex 01 | ✅ | ❌ | ReferenceError: numero is not defined |
-|  3 | Ex 01 | ✅ | ❌ | ReferenceError: numero is not defined |
+|  2 | Ex 01 | ✅ | ✅ | Nenhum erro |
+|  3 | Ex 01 | ✅ | ❌ | AssertionError: Resposta Incorreta: expected 'true' to deeply equal true |
 |  4 | Ex 01 | ✅ | ✅ | Nenhum erro |
 |  5 | Ex 01 | ✅ | ✅ | Nenhum erro |
 |  6 | Ex 01 | ✅ | ✅ | Nenhum erro |
