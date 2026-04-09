@@ -364,7 +364,7 @@ um espaço. Envie na resposta a função criada, sem executá-la
 */
 // Escreva o código da solução abaixo:
 function nomeCompleto (primeiroNome, sobrenome) {
-  return primeiroNome + " " + sobrenome
+  return primeiroNome + " " + sobrenome;
 
 }
 
@@ -389,7 +389,7 @@ propriedade .length). Envie na resposta a função criada, sem executá-la
 */
 // Escreva o código da solução abaixo:
 function contarTravaLinguas (travaLinguas) {
-  return travaLinguas.length
+  return travaLinguas.length;
 }
 
 export const resposta05 = contarTravaLinguas;
@@ -403,7 +403,7 @@ está no índice 0. Envie na resposta a função criada, sem executá-la
 */
 // Escreva o código da solução abaixo:
 function obterTravaLingua (indice) {
-  return travaLinguas[indice - 1]
+  return travaLinguas[indice];
 }
 
 export const resposta06 = obterTravaLingua;
@@ -418,7 +418,7 @@ executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 function contarPalavrasTravaLingua (indice) {
-  return travaLinguas[indice - 1].split(" ").length
+  return travaLinguas[indice].split(" ").length;
 
 }
 
@@ -472,7 +472,7 @@ enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 function contarElementos (elementos) {
-  return elementos.length - 1
+  return elementos.length;
 }
 
 export const resposta09 = contarElementos
