@@ -1,20 +1,20 @@
-Data de atualização: Dia 09/04/2026 às 09:54:38
+Data de atualização: Dia 09/04/2026 às 10:07:51
  
 
 | Aluno | Qtd. questões acertadas (de 9) | Nota total |
 |-------|---------------------------------|------------|
-| Alan Henrique (Norcat27) | 7 | 82.22 |
+| Alan Henrique (Norcat27) | 9 | 100.00 |
 | Anderson Túlio (tulinhokkj) | 8 | 93.33 |
 | Anthoniely Thialy (thiacstaa) | 11 | 100.00 |
 | Ariadne Maciel (arii-i) | 0 | 0.00 |
 | Bruna Carla (Bruna561) | 11 | 100.00 |
-| Carlos Benjamin (Kiseki-Shini) | 7 | 84.44 |
+| Carlos Benjamin (Kiseki-Shini) | 8 | 93.33 |
 | Cassiano Jorge (Cassianjo) | 9 | 100.00 |
 | Christian Leandro (LEandrittoum) | 0 | 0.00 |
 | Davi Gabriel (Kirishima226) | 0 | 0.00 |
-| Diego Amorim (Dieguinho1807) | 0 | 0.00 |
+| Diego Amorim (Dieguinho1807) | 9 | 100.00 |
 | Enzo de Almeida (Azulejo-barroco) | 6 | 66.67 |
-| Gabriel Donato (Pensologosabo) | 0 | 0.00 |
+| Gabriel Donato (Pensologosabo) | 9 | 100.00 |
 | Gitahbcahjcb (Gitahbcahjcb) | 0 | 0.00 |
 | Guilherme Galdino (abstractx7) | 9 | 100.00 |
 | Hattus Eduardo (Seth456879) | 5 | 55.56 |
@@ -39,7 +39,7 @@ Data de atualização: Dia 09/04/2026 às 09:54:38
 | Rafael Correia (rafaelCamisa11) | 11 | 100.00 |
 | Ricardo Freitas (Ricky2D) | 5 | 55.56 |
 | Samara Vitória (vitoria28398) | 11 | 100.00 |
-| Severino Antônio (netod4rk) | 0 | 0.00 |
+| Severino Antônio (netod4rk) | 11 | 100.00 |
 | Thiago Guilherme (keanorives) | 9 | 100.00 |
 | William Gabriel (WlRe4lTrem) | 9 | 100.00 |
 | Ziv Tabatchnik (zivshw) | 9 | 100.00 |
