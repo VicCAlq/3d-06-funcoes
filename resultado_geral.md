@@ -1,4 +1,4 @@
-Data de atualização: Dia 09/04/2026 às 01:53:38
+Data de atualização: Dia 09/04/2026 às 09:40:30
  
 
 | Aluno | Qtd. questões acertadas (de 9) | Nota total |
@@ -8,7 +8,7 @@ Data de atualização: Dia 09/04/2026 às 01:53:38
 | Anthoniely Thialy (thiacstaa) | 0 | 0.00 |
 | Ariadne Maciel (arii-i) | 0 | 0.00 |
 | Bruna Carla (Bruna561) | 0 | 0.00 |
-| Carlos Benjamin (Kiseki-Shini) | 6 | 75.56 |
+| Carlos Benjamin (Kiseki-Shini) | 7 | 84.44 |
 | Cassiano Jorge (Cassianjo) | 6 | 73.33 |
 | Christian Leandro (LEandrittoum) | 0 | 0.00 |
 | Davi Gabriel (Kirishima226) | 0 | 0.00 |
@@ -30,7 +30,7 @@ Data de atualização: Dia 09/04/2026 às 01:53:38
 | Lucas Caio (lucascaio-art) | 0 | 0.00 |
 | Lucas Ruan (lucasruan12) | 0 | 0.00 |
 | Maria Antonia (harieladorecife) | 0 | 0.00 |
-| Maria Eduarda Sena (SenaPaiva) | 0 | 0.00 |
+| Maria Eduarda Sena (SenaPaiva) | 5 | 64.44 |
 | Maria Fernanda (Nini2pi) | 0 | 0.00 |
 | Maria Heloisa (loisa188) | 0 | 0.00 |
 | Maria Vitória (mavimdddu) | 0 | 0.00 |
