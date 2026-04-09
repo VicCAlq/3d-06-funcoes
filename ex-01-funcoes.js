@@ -442,7 +442,7 @@ function buscarTravaLinguasComPalavra (palavra){
   }
 
 }
-export const resposta08 = false
+export const resposta08 = buscarTravaLinguasComPalavra
 
 // Lista para as questões 9 a 12
 export const elementos = [
