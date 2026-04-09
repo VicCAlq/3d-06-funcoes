@@ -415,7 +415,7 @@ function contarPalavrasTravaLingua(indice){
     return travaLinguas[indice].split(" ").length
 }
 
-export const resposta07 = contarPalavrasTravaLingue
+export const resposta07 = contarPalavrasTravaLingua
 
 /* Questão 8
 Crie uma função chamada "buscarTravaLinguasComPalavra" que recebe uma 
