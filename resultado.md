@@ -1,4 +1,4 @@
-Data de atualização: Dia 09/04/2026 às 09:51:47
+Data de atualização: Dia 09/04/2026 às 10:04:58
  
 
 | Questão | Exercício | Entregue | Correto | Mensagem de Erro |
@@ -9,8 +9,8 @@ Data de atualização: Dia 09/04/2026 às 09:51:47
 |  4 | Ex 01 | ✅ | ✅ | Nenhum erro |
 |  5 | Ex 01 | ✅ | ✅ | Nenhum erro |
 |  6 | Ex 01 | ✅ | ✅ | Nenhum erro |
-|  7 | Ex 01 | ✅ | ❌ | AssertionError: Resposta Incorreta: expected 34 to deeply equal 9 |
-|  8 | Ex 01 | ✅ | ❌ | TypeError: Cannot read properties of undefined (reading 'includes') |
+|  7 | Ex 01 | ✅ | ✅ | Nenhum erro |
+|  8 | Ex 01 | ✅ | ❌ | ReferenceError: resultado is not defined |
 |  9 | Ex 01 | ✅ | ✅ | Nenhum erro |
 | 10 | Ex 01 | ✅ | ✅ | Nenhum erro |
 | 11 | Ex 01 | ❌ | ❌ | AssertionError: expected false to be type of 'function' |
