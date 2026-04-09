@@ -350,7 +350,6 @@ function ehPositivo(nmr2){
   
         return false
     } 
-console.log(ehPositivo(-1))
 export const resposta03 = ehPositivo
 
 /* Questão 4
