@@ -408,7 +408,7 @@ executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 function contarPalavrasTravaLingua(nmr4) {
-  return (travaLinguas[nmr4-1].split(" ").length)
+  return (travaLinguas[nmr4].split(" ").length)
 }
 export const resposta07 = contarPalavrasTravaLingua
 
@@ -471,13 +471,14 @@ ou null se não encontrar. Envie na resposta a função criada, sem
 executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-function buscarPorNumeroAtomico(elementos, nmr5) {
-let j = 0
-while (j < elementos) {
-if (elementos[j].numeroAtomico = nmr5) {return elementos[j]}
-j++
-}
-return null
+
+function buscarPorNumeroAtomico(num) {
+  let a = 0
+  while (a < elementos.length) {
+    if (elementos[a].numeroAtomico == num) {return elementos[a]}
+    else if (a == elementos.length - 1) {return null}
+    a++
+  }
 }
 
 export const resposta10 = buscarPorNumeroAtomico
