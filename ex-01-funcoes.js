@@ -472,14 +472,14 @@ executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 function buscarPorNumeroAtomico(elementos, nmr5) {
-    let j = 0
-      while (j < elementos) {
-          if (elementos[j].numeroAtomico = nmr5) {return elementos[j]}
-              j++
-                }
-                  return null
-                  }
+let j = 0
+while (j < elementos) {
+if (elementos[j].numeroAtomico = nmr5) {return elementos[j]}
+j++
 }
+return null
+}
+
 export const resposta10 = buscarPorNumeroAtomico
 //
 /* Questão 11
