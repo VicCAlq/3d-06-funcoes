@@ -514,7 +514,14 @@ função sem os parênteses)
 // Escreva o código da solução abaixo:
 
 function elementosComNumeroPar(elementos) {
-  
+  let bola2 = []
+  let b = 0
+  while (b < elementos.length) {
+    if (elementos[b].numeroAtomico % 2 == 0) {
+    bola2.push(elementos[b])}
+    b++
+  }
+  return bola2
 }
 
 export const resposta12 = false
