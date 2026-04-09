@@ -1,15 +1,15 @@
-Data de atualização: Dia 09/04/2026 às 09:48:24
+Data de atualização: Dia 09/04/2026 às 09:54:38
  
 
 | Aluno | Qtd. questões acertadas (de 9) | Nota total |
 |-------|---------------------------------|------------|
 | Alan Henrique (Norcat27) | 7 | 82.22 |
-| Anderson Túlio (tulinhokkj) | 6 | 73.33 |
-| Anthoniely Thialy (thiacstaa) | 0 | 0.00 |
+| Anderson Túlio (tulinhokkj) | 8 | 93.33 |
+| Anthoniely Thialy (thiacstaa) | 11 | 100.00 |
 | Ariadne Maciel (arii-i) | 0 | 0.00 |
-| Bruna Carla (Bruna561) | 0 | 0.00 |
+| Bruna Carla (Bruna561) | 11 | 100.00 |
 | Carlos Benjamin (Kiseki-Shini) | 7 | 84.44 |
-| Cassiano Jorge (Cassianjo) | 6 | 73.33 |
+| Cassiano Jorge (Cassianjo) | 9 | 100.00 |
 | Christian Leandro (LEandrittoum) | 0 | 0.00 |
 | Davi Gabriel (Kirishima226) | 0 | 0.00 |
 | Diego Amorim (Dieguinho1807) | 0 | 0.00 |
@@ -30,7 +30,7 @@ Data de atualização: Dia 09/04/2026 às 09:48:24
 | Lucas Caio (lucascaio-art) | 0 | 0.00 |
 | Lucas Ruan (lucasruan12) | 0 | 0.00 |
 | Maria Antonia (harieladorecife) | 0 | 0.00 |
-| Maria Eduarda Sena (SenaPaiva) | 5 | 64.44 |
+| Maria Eduarda Sena (SenaPaiva) | 8 | 91.11 |
 | Maria Fernanda (Nini2pi) | 0 | 0.00 |
 | Maria Heloisa (loisa188) | 0 | 0.00 |
 | Maria Vitória (mavimdddu) | 11 | 100.00 |
@@ -38,8 +38,8 @@ Data de atualização: Dia 09/04/2026 às 09:48:24
 | Pedro Henrique (PedroHenrique2D) | 12 | 100.00 |
 | Rafael Correia (rafaelCamisa11) | 11 | 100.00 |
 | Ricardo Freitas (Ricky2D) | 5 | 55.56 |
-| Samara Vitória (vitoria28398) | 0 | 0.00 |
+| Samara Vitória (vitoria28398) | 11 | 100.00 |
 | Severino Antônio (netod4rk) | 0 | 0.00 |
 | Thiago Guilherme (keanorives) | 9 | 100.00 |
 | William Gabriel (WlRe4lTrem) | 9 | 100.00 |
-| Ziv Tabatchnik (zivshw) | 0 | 0.00 |
+| Ziv Tabatchnik (zivshw) | 9 | 100.00 |
