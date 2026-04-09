@@ -415,9 +415,10 @@ executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
 function contarPalavrasTravaLingua(indice){
+  return travaLinguas[indice].split(" ").length
 
 }
-export const resposta07 = false
+export const resposta07 = contarPalavrasTravaLingua
 
 /* Questão 8
 Crie uma função chamada "buscarTravaLinguasComPalavra" que recebe uma 
@@ -429,8 +430,21 @@ Envie na resposta a função criada, sem executá-la (basta enviar
 o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
+function buscarTravaLinguasComPalavra(palavra){
+  const resultado = []
+  let i = 0
 
-export const resposta08 = false
+  while(i < travaLinguas.length){
+    if(travaLinguas[i].includes(palavra)){
+      resultado.push(travaLinguas[i])
+    }
+    i++
+  }
+
+  return resultado
+
+}
+export const resposta08 = buscarTravaLinguasComPalavra
 
 // Lista para as questões 9 a 12
 export const elementos = [
@@ -457,8 +471,11 @@ lista. Envie na resposta a função criada, sem executá-la (basta
 enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
+function contarElementos(elementos){
+  return elementos.length
+}
 
-export const resposta09 = false
+export const resposta09 = contarElementos
 
 /* Questão 10
 Crie uma função chamada "buscarPorNumeroAtomico" que recebe dois 
@@ -468,7 +485,9 @@ ou null se não encontrar. Envie na resposta a função criada, sem
 executá-la (basta enviar o nome da função sem os parênteses)
 */
 // Escreva o código da solução abaixo:
-
+function buscarPorNumeroAtomico(elementos, numero){
+  
+}
 export const resposta10 = false
 
 /* Questão 11
